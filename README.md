@@ -1,6 +1,6 @@
 ## Info
 
-This is strapi project with Typescript interface generator for Strapi 4 models.
+This is a [Strapi](https://strapi.io/) project with Typescript interface generator for Strapi 4 models.
 
 This project is genrated by following comands
 
@@ -8,7 +8,7 @@ This project is genrated by following comands
 npx create-strapi-app@latest my-project --ts
 ```
 
-to start starpi
+to start strapi
 
 ```bash
 npm run build # https://docs.strapi.io/developer-docs/latest/development/typescript.html#start-developing-in-typescript
