@@ -1,3 +1,4 @@
+// https://github.com/Oak-Digital/types-4-strapi-2#tips-and-tricks
 import { exec } from "child_process";
 
 export default (plugin: any) => {

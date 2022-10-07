@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+// https://github.com/Oak-Digital/types-4-strapi-2#tips-and-tricks
 const child_process_1 = require("child_process");
 exports.default = (plugin) => {
     const componentRunAfter = [
