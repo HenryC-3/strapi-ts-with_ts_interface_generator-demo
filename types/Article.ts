@@ -1,8 +1,8 @@
 export interface IArticle {
   id: number;
   attributes: {
-    title: string;
-    content: string;
-    author: string;
+    title: string | null;
+    content: string | null;
+    author: string | null;
   };
 }
