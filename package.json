@@ -11,7 +11,7 @@
     "types": "t4s"
   },
   "devDependencies": {
-    "@oak-digital/types-4-strapi-2": "^0.3.0"
+    "@oak-digital/types-4-strapi-2": "^0.3.1"
   },
   "dependencies": {
     "@strapi/plugin-i18n": "4.4.1",

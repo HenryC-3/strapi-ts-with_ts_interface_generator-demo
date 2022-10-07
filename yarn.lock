@@ -1359,10 +1359,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@oak-digital/types-4-strapi-2@^0.3.0":
-  version "0.3.0"
-  resolved "https://registry.npmmirror.com/@oak-digital/types-4-strapi-2/-/types-4-strapi-2-0.3.0.tgz#3073dd03302ee25fe9aa1507a79732fb7868c66e"
-  integrity sha512-ZdsbD5160CxFk4qawf+yJS4O9kLJ6jgaIHiYxmGvZH7cC4YJ7/3XJfgZqBOpqBeEI2Lkt+MTMrhAA9UUUa3PxQ==
+"@oak-digital/types-4-strapi-2@^0.3.1":
+  version "0.3.1"
+  resolved "https://registry.npmmirror.com/@oak-digital/types-4-strapi-2/-/types-4-strapi-2-0.3.1.tgz#3b79100eb4d8398858bbc41821b7f1c7cd917ce2"
+  integrity sha512-M90ufGG570FkbRKL3uahZZ8HLoGykKcWCQs1BpqVFKQeSjUwNLngvHbYvAVNCddJqOgwBFjrvz7iQhF153IVbg==
   dependencies:
     change-case "^4.1.2"
     commander "^9.4.0"
